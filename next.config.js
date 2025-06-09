@@ -2,6 +2,7 @@
 const nextConfig = {
   output: 'export',
   basePath: '/attendease2.0',
+  assetPrefix: '/attendease2.0/',
   images: {
     unoptimized: true,
   },
