@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/attend-ease',
+  basePath: '/attendease2.0',
   images: {
     unoptimized: true,
   },
